@@ -21,9 +21,9 @@ div.fordLogo{
     /* text-align: center; */
     /* border: 2px solid red; */
     z-index: 2;
-    position: fixed;
-    height: 12vh;
-    margin-left: 40%;
+    position: absolute;
+    height: 50px;
+    margin-left: 42%;
 
 }
 
@@ -34,7 +34,7 @@ div.fordLogo{
 header{
     display: flex;
     justify-content: space-between;
-    height: 10vh;
+    height: 40px;
     /* border: 2px solid red; */
 }
 
